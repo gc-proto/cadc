@@ -1,6 +1,6 @@
 remote_theme: wet-boew/gcweb-jekyll
 title: Canadian Astronomy Data Centre landing page
-
+baseurl: "https://test.canada.ca/cadc-mock-up/"
 
 # page front matter defaults #
 defaults:
